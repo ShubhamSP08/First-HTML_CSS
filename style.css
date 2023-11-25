@@ -1,0 +1,24 @@
+a{
+    text-decoration: none;
+}
+
+.icon{
+    display: inline-flex;
+}
+
+.head{
+    display:inline-flex;
+    list-style-type: none;
+    /* float: right; */
+    margin-top: 0px;
+} 
+
+ul ,li{
+    padding-left: 100px;
+}
+
+ul ,li:first-child{
+    padding-left: 0px;
+    float: none;
+}
+
